@@ -1,0 +1,21 @@
+{
+  "name": "vasco-patterns-cli",
+  "version": "1.0.0",
+  "description": "Simulador de partida do Vasco da Gama com padrões de projeto.",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc -p ."
+  },
+  "keywords": [
+    "typescript",
+    "design-patterns",
+    "futebol",
+    "vasco"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
