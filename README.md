@@ -10,5 +10,5 @@ Simulador em TypeScript que evidencia que o Vasco da Gama é maior que o Flameng
 
 ## Vídeo
 
-- 
+- https://www.canva.com/design/DAG6-JTiiLs/MZTeUK32J-6gppf0uK0FNQ/edit?utm_content=DAG6-JTiiLs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
